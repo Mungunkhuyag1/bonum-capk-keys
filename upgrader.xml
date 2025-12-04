@@ -5,22 +5,22 @@
     <description>Updates for Bonum</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.40</title>
+      <title>Version 1.0.39</title>
       <description><![CDATA[
         • Critical security updates
         • Important bug fixes
         • Performance improvements
       ]]></description>
       <pubDate>Mon, 06 Dec 2025 10:00:00 +0000</pubDate>
-      <sparkle:version>1.0.40</sparkle:version>
-      <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+      <sparkle:version>1.0.39</sparkle:version>
+      <sparkle:shortVersionString>1.0.39</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
-      <sparkle:tags>
+      <!-- <sparkle:tags>
         <sparkle:criticalUpdate />
-      </sparkle:tags>
+      </sparkle:tags> -->
       <enclosure 
         url="https://apps.sunmi.com/app/37945" 
-        sparkle:version="1.0.40" 
+        sparkle:version="1.0.39" 
         type="application/octet-stream" />
     </item>
   </channel>
